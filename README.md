@@ -1,4 +1,5 @@
-# food-shopping
+# food-shopping mobile app
+
 Use-case: When shopping for groceries, use this app to track groceries you are buying, their prices, 
 quantities being purchased and nutritional data.
 
@@ -23,5 +24,9 @@ Storage: Use SQLite
 
 Output:
 1) Itemized List of foods & quantities to buy for given number of days and body goal. 
-  a) for each item show count, item name, units, single item cost, total line item costs, per serving cals, total cals
-2) Grand total cost, Daily calories
+  a) for each item show count, item name, units, single item cost, total line item costs, per serving cals, total cals.
+  
+2) Grand total cost at checkout, Daily calories
+
+
+Software Product will be a mobile app that targets Android and IOS. 
