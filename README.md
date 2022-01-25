@@ -3,9 +3,9 @@
 Use-case: When shopping for groceries, use this app to track groceries you are buying, their prices, 
 quantities being purchased and nutritional data.
 
-Input: 1) Scan the bar code on the product or manually enter the product info
+Input: 1) For each item, scan the bar code of the product or manually enter the product info
 
-2) User Parameters:
+2) User Parameters to set up:
   a) Body Weight
   b) % Fat
   c) % Bone Density
@@ -15,7 +15,7 @@ Input: 1) Scan the bar code on the product or manually enter the product info
 
 
 3) Food Nutrition Parameters:
-  For each food, show serving size, protein, fat, carb and total calories.
+  For each food item, show serving size, protein, fat, carb and total calories.
   
 4) Number of days to get food for
 5) Spending Limit
